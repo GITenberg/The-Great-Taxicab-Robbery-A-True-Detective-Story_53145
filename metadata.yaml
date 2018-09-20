@@ -1,0 +1,28 @@
+_repo: The-Great-Taxicab-Robbery-A-True-Detective-Story_53145
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Collins, James H. (James Hiram)
+    alias: Collins, James Hiram
+    birthdate: 1873
+    gutenberg_agent_id: '47238'
+    url: http://www.gutenberg.org/2009/agents/47238
+description: ''
+gutenberg_issued: '2016-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53145'
+  lccn: '12012507'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Criminals -- New York (State) -- New York'
+- !lcsh 'Police -- New York (State) -- New York'
+- !lcsh 'Brigands and robbers'
+- !lcsh 'Crime -- New York (State) -- New York'
+- !lcc 'HV'
+- GITenberg
+title: 'The Great Taxicab Robbery: A True Detective Story'
+url: http://www.gutenberg.org/ebooks/53145
